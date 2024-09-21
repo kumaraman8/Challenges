@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../interactive-rating-component-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project Leval 1"
+	}
+}
